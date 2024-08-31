@@ -9,6 +9,7 @@ function Header() {
             <li><a href="#">Check</a></li>
             <li><a href="#">Shop</a></li>
             <li><a href="#">About</a></li>
+            <li><a href="#">commit</a></li>
         </ul>
       </nav>
     </>
